@@ -1,6 +1,6 @@
-import img1 from '../../images/svg-1.svg';
-import img2 from '../../images/img3.svg';
-import img3 from '../../images/img2.svg';
+import img1 from '../../images/tr1.svg'
+import img2 from '../../images/tr2.svg'
+import img3 from '../../images/tr3.svg'
 import img4 from '../../images/img5.svg';
 
 
